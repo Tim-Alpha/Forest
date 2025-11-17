@@ -1,0 +1,52 @@
+[
+  {
+    "id": "infinity-scroller",
+    "name": "Infinity Scroller",
+    "description": "A continuously scrolling list with infinite scroll",
+    "icon": "📜",
+    "bundleFile": "infinity-scroller.bundle.js"
+  },
+  {
+    "id": "contacts",
+    "name": "Contacts",
+    "description": "Display a list of contacts",
+    "icon": "📇",
+    "bundleFile": "contacts.bundle.js"
+  },
+  {
+    "id": "calculator",
+    "name": "Calculator",
+    "description": "Perform basic arithmetic calculations",
+    "icon": "🧮",
+    "bundleFile": "calculator.bundle.js"
+  },
+  {
+    "id": "todo-list",
+    "name": "Todo List",
+    "description": "Manage your tasks and stay organized",
+    "icon": "✅",
+    "bundleFile": "todo-list.bundle.js"
+  },
+  {
+    "id": "timer",
+    "name": "Timer & Stopwatch",
+    "description": "Track time with timer or stopwatch mode",
+    "icon": "⏱️",
+    "bundleFile": "timer.bundle.js"
+  },
+  {
+    "id": "notes",
+    "name": "Notes",
+    "description": "Create and manage your notes",
+    "icon": "📝",
+    "bundleFile": "notes.bundle.js"
+  },
+  {
+    "id": "unit-converter",
+    "name": "Unit Converter",
+    "description": "Convert between different units of measurement",
+    "icon": "🔄",
+    "bundleFile": "unit-converter.bundle.js"
+  }
+]
+
