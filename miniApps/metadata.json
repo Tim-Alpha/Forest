@@ -47,6 +47,13 @@
     "description": "Convert between different units of measurement",
     "icon": "🔄",
     "bundleFile": "unit-converter.bundle.js"
+  },
+  {
+    "id": "vible",
+    "name": "Vible",
+    "description": "Faith-based social media and devotional app",
+    "icon": "🦋",
+    "bundleFile": "vible.bundle.js"
   }
 ]
 

@@ -59,6 +59,9 @@ export async function loadMiniAppBundle(bundleFile: string): Promise<React.Compo
       case 'unit-converter.bundle.js':
         Component = require('@/miniApps/unit-converter.bundle').default;
         break;
+      case 'vible.bundle.js':
+        Component = require('@/miniApps/vible.bundle').default;
+        break;
       default:
         throw new Error(`Bundle file not found: ${bundleFile}`);
     }
